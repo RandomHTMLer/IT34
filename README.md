@@ -1,2 +1,5 @@
 # IT34
 os attempt
+BLOB
+this is an attempt to make an OS.
+My idea is to make it an EXE file then covert it to a .ISO file.
